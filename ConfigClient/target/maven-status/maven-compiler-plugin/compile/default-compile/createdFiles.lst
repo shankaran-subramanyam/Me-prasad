@@ -1,0 +1,14 @@
+com\slokam\ConfigClient\RegistrationController\RegistrationController.class
+com\slokam\ConfigClient\ConfigClientApplication.class
+com\slokam\ConfigClient\RegistrationDAO\RegistrationDAO.class
+com\slokam\ConfigClient\pojo\LoginDetails.class
+com\slokam\ConfigClient\App1Controller.class
+com\slokam\ConfigClient\OrderController.class
+com\slokam\ConfigClient\pojo\Phone.class
+com\slokam\ConfigClient\RegistrationService\RegistrationService.class
+com\slokam\ConfigClient\pojo\PersonalDetails.class
+com\slokam\ConfigClient\OrderService.class
+com\slokam\ConfigClient\pojo\AadhaarDetails.class
+com\slokam\ConfigClient\pojo\Addresss.class
+com\slokam\ConfigClient\OrderDAO.class
+com\slokam\ConfigClient\pojo\OrderPojo.class
